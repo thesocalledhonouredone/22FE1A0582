@@ -51,21 +51,21 @@ A reusable package that provides a `Log()` function to send structured logs to t
 ---
 
 ## 📂 Project Structure
-project-root/
-│── backend/
-  |── package.json
-  |── .env
-│ ├── server.js
-│ ├── routes/
-│ │ └── urlRoutes.js
-│ ├── models/
-│ │ ├── Url.js
-│ │ └── Click.js
-│
-│── logging-middleware/
-│ ├── index.js
-│ └── package.json
-│── README.md
+project-root/<br>
+│── backend/<br>
+  |── package.json<br>
+  |── .env<br>
+│ ├── server.js<br>
+│ ├── routes/<br>
+│ │ └── urlRoutes.js<br>
+│ ├── models/<br>
+│ │ ├── Url.js<br>
+│ │ └── Click.js<br>
+│<br>
+│── logging-middleware/<br>
+│ ├── index.js<br>
+│ └── package.json<br>
+│── README.md<br>
 
 
 ---
